@@ -2,7 +2,7 @@
 
 Welcome to the EVD4UAV dataset repository! EVD4UAV is an altitude-sensitive benchmark dataset designed to evade vehicle detection in Unmanned Aerial Vehicle (UAV) imagery. This dataset is specifically curated to facilitate the study of adversarial patch-based vehicle detection attacks in UAV images. The EVD4UAV dataset comprises a diverse set of images captured at various altitudes with fine-grained annotations, making it a robust platform for evaluating the performance of object detectors under adversarial conditions. Notably, the dataset includes around 3,000 images depicting winter scenarios where vehicles may be partially or fully covered by snow, providing a unique challenge for vehicle detection algorithms.
 
-![visualization Example](./figures/visualization_example.png)
+![visualization Example](./figures/visualization.png)
 
 # Dataset Overview
 ![Dataset Comparsion](./figures/dataset_comparsion.png)
