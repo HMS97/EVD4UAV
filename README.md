@@ -7,8 +7,8 @@ Welcome to the EVD4UAV dataset repository! EVD4UAV is an altitude-sensitive benc
 # Dataset Overview
 ![Dataset Comparsion](./figures/dataset_comparsion.png)
 
-You can download the data through [google drive](https://drive.google.com/file/d/1ROjsdUcqGuRb7P4qGFNKZz2xWk4gmgxU/view?usp=sharing)
- 
+You can download the data through [google drive](https://drive.google.com/file/d/1ROjsdUcqGuRb7P4qGFNKZz2xWk4gmgxU/view?usp=sharing) ,
+ [Baidu Yun](https://pan.baidu.com/s/1bU1XITzJxXOBzznGnon3Tw?pwd=f6pn)
 ## Anootation
 - Bounding Boxes: Both horizontal and rotated bounding boxes to provide precise localization of vehicles.
 - Instance-Level Masks: Detailed segmentation masks for each vehicle.
